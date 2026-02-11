@@ -107,9 +107,27 @@
       "ffmpegExecutablePath": "",
       "ffmpegCrf": 23,
       "ffmpegPreset": "medium"
+    },
+    {
+      "name": "Standard WebP (1280px)",
+      "outputFormat": "WEBP",
+      "quality": 75,
+      "colorDepth": 1,
+      "resizeMode": "Fit",
+      "desiredWidth": 1280,
+      "desiredHeight": null,
+      "desiredLongestEdge": 1000,
+      "enlargeOrReduce": "Auto",
+      "allowLargerFiles": false,
+      "revertToOriginalIfLarger": true,
+      "minimumCompressionSavingsInKB": 30,
+      "skipConversionPatterns": "",
+      "ffmpegExecutablePath": "",
+      "ffmpegCrf": 23,
+      "ffmpegPreset": "medium"
     }
   ],
-  "selectedConversionPreset": "WEBP (75, no resizing)",
+  "selectedConversionPreset": "Standard WebP (1280px)",
   "globalPresets": [
     {
       "name": "WebP 75",
