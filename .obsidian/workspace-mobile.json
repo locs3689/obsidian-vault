@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Macからのテスト送信.md",
+                "file": "Welcome.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Macからのテスト送信"
+              "title": "Welcome"
             }
           }
         ]
@@ -171,8 +171,8 @@
   },
   "active": "43632678ce59969d",
   "lastOpenFiles": [
-    "Welcome.md",
     "Macからのテスト送信.md",
+    "Welcome.md",
     "/Macからのテスト送信.md"
   ]
 }
