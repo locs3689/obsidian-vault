@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "幼少期.md",
+                "file": "幼児期.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "幼少期"
+              "title": "幼児期"
             }
           }
         ],
@@ -127,7 +127,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Lightroom Classicにおける「意図ある色彩設計」の体系化と実践レシピ.md",
+            "file": "幼児期.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "unlinkedCollapsed": true
           },
           "icon": "links-coming-in",
-          "title": "Backlinks"
+          "title": "バックリンク"
         }
       },
       {
@@ -187,7 +187,7 @@
   "active": "73c138240b6a426f",
   "lastOpenFiles": [
     "Lightroom Classicにおける「意図ある色彩設計」の体系化と実践レシピ.md",
-    "幼少期.md",
+    "幼児期.md",
     "2026-03-02.md",
     "2025-03-01.md",
     "/2026-03-02.md",
