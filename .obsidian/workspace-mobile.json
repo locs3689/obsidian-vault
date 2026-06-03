@@ -97,16 +97,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "無題のファイル 4.md",
+                "file": "無題のファイル.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "無題のファイル 4"
+              "title": "無題のファイル"
+            }
+          },
+          {
+            "id": "69e1be090ba8fd08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "写真展アイデア.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "写真展アイデア"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -197,7 +211,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "無題のファイル 1.md",
+            "file": "写真展アイデア.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -254,8 +268,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "defdece6b6742692",
+  "active": "69e1be090ba8fd08",
   "lastOpenFiles": [
+    "無題のファイル.md",
+    "写真展アイデア.md",
+    "無題のファイル 4.md",
     "/授業/2026/製品開発論/ノート/製品開発論_07.md",
     "/授業/2026/製品開発論/ノート/製品開発論_06.md",
     "/授業/2026/製品開発論/ノート",
@@ -274,13 +291,11 @@
     "/クーポン/かっぱ寿司アンケート.md",
     "/クーポン",
     "かっぱ寿司アンケート.md",
-    "無題のファイル 4.md",
     "無題のフォルダ",
     "授業/2026/カメラメカニズム/ノート/カメラメカニズム_07.md",
     "/授業/2026/カメラメカニズム/ノート/カメラメカニズム_06.md",
     "授業/2026/カメラメカニズム/AI要約/カメラメカニズム_07_AI要約.md",
     "無題のファイル 3.md",
-    "無題のファイル 2.md",
     "/授業/2026/写真特別講座Ⅰ/ノート/写真特別講座Ⅰ_07.md",
     "授業/2026/写真特別講座Ⅰ/ノート/写真特別講座Ⅰ_07.md",
     "/授業/2026/写真特別講座Ⅰ/AI要約/写真特別講座Ⅰ_05_AI要約.md",
@@ -292,7 +307,6 @@
     "/授業/2026/写真作家作品研究Ⅰ/ノート/写真作家作品研究Ⅰ_06.md",
     "授業/2026/写真作家作品研究Ⅰ/ノート/写真作家作品研究Ⅰ_06.md",
     "/授業/2026/写真特別講座Ⅰ/ノート/写真特別講座Ⅰ_05.md",
-    "/授業/2026/写真特別講座Ⅰ/ノート/写真特別講座Ⅰ_04.md",
     "/image.webp",
     "無題のファイル 1.canvas",
     "無題のファイル 2.canvas",
