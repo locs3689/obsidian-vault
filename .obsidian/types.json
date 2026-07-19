@@ -4,6 +4,7 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "date": "date",
-    "status": "checkbox"
+    "status": "checkbox",
+    "tool": "multitext"
   }
 }
