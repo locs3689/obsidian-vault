@@ -265,12 +265,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/やり取りの記録/サイゼリヤの原価構造と個人向けの食材仕入れ戦略.md",
+                "file": "AI/やり取りの記録/疲労時のバス移動における外部刺激の軽減.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "サイゼリヤの原価構造と個人向けの食材仕入れ戦略"
+              "title": "疲労時のバス移動における外部刺激の軽減"
             }
           }
         ],
@@ -365,7 +365,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "AI/やり取りの記録/サイゼリヤの原価構造と個人向けの食材仕入れ戦略.md",
+            "file": "AI/やり取りの記録/疲労時のバス移動における外部刺激の軽減.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -424,8 +424,8 @@
   },
   "active": "84faac59551640a1",
   "lastOpenFiles": [
-    "AI/やり取りの記録/Obsidianでのノート運用とAIメモ.md",
     "AI/やり取りの記録/サイゼリヤの原価構造と個人向けの食材仕入れ戦略.md",
+    "AI/やり取りの記録/Obsidianでのノート運用とAIメモ.md",
     "AI/やり取りの記録/疲労時のバス移動における外部刺激の軽減.md",
     "MacFan 2025.03.md",
     "2026-07-19.md",
