@@ -265,12 +265,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/やり取りの記録/疲労時のバス移動.md",
+                "file": "AI/やり取りの記録/疲労時のバス移動における外部刺激の軽減 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "疲労時のバス移動"
+              "title": "疲労時のバス移動における外部刺激の軽減 1"
             }
           }
         ],
@@ -310,7 +310,7 @@
             "sortOrder": "alphabetical"
           },
           "icon": "lucide-search",
-          "title": "Search"
+          "title": "検索"
         }
       },
       {
@@ -365,7 +365,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "AI/やり取りの記録/疲労時のバス移動.md",
+            "file": "AI/やり取りの記録/疲労時のバス移動における外部刺激の軽減 1.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -424,8 +424,9 @@
   },
   "active": "84faac59551640a1",
   "lastOpenFiles": [
+    "AI/やり取りの記録/疲労時のバス移動における外部刺激の軽減.md",
     "AI/やり取りの記録/Obsidianでのノート運用とAIメモ.md",
-    "AI/やり取りの記録/疲労時のバス移動.md",
+    "AI/やり取りの記録/疲労時のバス移動における外部刺激の軽減 1.md",
     "MacFan 2025.03.md",
     "2026-07-19.md",
     "/AI/やり取りの記録/Obsidianでのノート運用とAIメモ.md",
@@ -459,7 +460,6 @@
     "授業/2026/写真特別講座Ⅰ/レポート案/写真特別講座Ⅰ_村上先生_メモ.md",
     "授業/2026/写真特別講座Ⅰ/ノート/写真特別講座Ⅰ_11_ノート.md",
     "授業/2026/写真特別講座Ⅰ/ノート/写真特別講座Ⅰ_10_ノート.md",
-    "授業/2026/写真特別講座Ⅰ/AI要約/写真特別講座Ⅰ_10_AI要約.md",
     "image.webp",
     "/image.webp",
     "無題のファイル 1.canvas",
